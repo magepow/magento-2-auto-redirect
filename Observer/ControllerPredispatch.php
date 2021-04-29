@@ -48,17 +48,6 @@ class ControllerPredispatch implements ObserverInterface
      */
     public function execute(Observer $observer)
     {
-        /**
-         * Check if user logged in
-         */
-        // if ($this->customerSession->isLoggedIn()) {
-        	
-        // 	$urlOld = $this->url->getUrl('/');
-        	
-        // 	 $urlEndPoint = $urlOld . 'hero-hoodie.html';
-        //  return $this->http->setRedirect($urlEndPoint,301);
-        
-        // }
 
     if ($this->data->getConfigModule('general/enabled') == 1) {
           
