@@ -4,7 +4,7 @@ namespace Magepow\Autoredirect\Observer;
 use Magento\Framework\Event\ObserverInterface;
 use Magento\Framework\Event\Observer;
 
-class ControllerPredispatch implements ObserverInterface
+class Autoredirect implements ObserverInterface
 {
     /**
      * @var \Magento\Framework\UrlInterface
