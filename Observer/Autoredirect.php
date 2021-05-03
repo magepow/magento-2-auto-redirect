@@ -44,7 +44,7 @@ class Autoredirect implements ObserverInterface
     }
 
     /**
-     * Manages redirect
+     * manage redirect
      */
     public function execute(Observer $observer)
     {
