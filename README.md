@@ -1,4 +1,4 @@
-# magento-2-auto-redirect
+# Magento 2 Auto Redirect
 Magento 2 Autoredirect allows user to change their url to other pages when starting on a page of the website. It works well on both storefront and backend.
 
 Before you continue, ensure you meet the following requirements:
