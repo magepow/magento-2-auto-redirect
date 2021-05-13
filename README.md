@@ -6,6 +6,10 @@ Before you continue, ensure you meet the following requirements:
   * You have installed Magento2
   * You should use a Linux or Mac OS machine. Windows is not currently supported.
 
+[![Latest Stable Version](https://poser.pugx.org/magepow/autoredirect/v/stable)](https://packagist.org/packages/magepow/autoredirect)
+[![Total Downloads](https://poser.pugx.org/magepow/autoredirect/downloads)](https://packagist.org/packages/magepow/autoredirect)
+[![Daily Downloads](https://poser.pugx.org/magepow/autoredirect/d/daily)](https://packagist.org/packages/magepow/autoredirect)
+
 ## Step 1: Download Magento 2 Autoredirect
 ### Install via composer (recommend)
 Run the following commands in Magento 2 root folder:
