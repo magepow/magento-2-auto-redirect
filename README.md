@@ -1,7 +1,5 @@
 [<img src="https://github.com/magepow/themeforest/blob/master/shopify/shopify_affiliate.jpg" >](https://shopify.pxf.io/VyL446)
 
-[<img src="https://github.com/magepow/themeforest/blob/master/shopify/shopify_affiliate.jpg" >](https://shopify.pxf.io/VyL446)
-
 # Magento 2 Auto Redirect
 Magento 2 Autoredirect allows user to change their url to other pages when starting on a page of the website. It works well on both storefront and backend.
 
